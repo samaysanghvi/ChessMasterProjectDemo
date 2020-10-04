@@ -1,0 +1,1 @@
+chess pieces are  bishop, knight, rook, queen, king, pawn
